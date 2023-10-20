@@ -1,6 +1,6 @@
 const genres = ["First Person Shooter", "Third Person Shooter", "RPG", "3D Platformer", "2D Platformer", "City Builder", "Sandbox", "4X", "Tower Defense", "Metroidvania", "Rogue-like"]
 const genre_adjectives = ["Classic", "Modern", "Minimalist", "Textbased", "MMO", "Souls-like", "Class-based", "Character-driven", "Story-driven", "Gamplay-driven", "Satirical"];
-const adjectives = [];
+const adjectives = import('adjectives');
 const nouns = [];
 const objects = [];
 const regions = [];
