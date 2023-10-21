@@ -22,5 +22,5 @@ const generate = () => {
 
     idea += ".";
     
-    document.getElementById("idea").textContent = idea;
+    return idea;
 }
